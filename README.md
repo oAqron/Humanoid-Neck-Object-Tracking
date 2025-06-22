@@ -1,4 +1,4 @@
-# NTU-Jetson-Gesture-CV-Project
+# Jetson-Gesture-CV-Project
 # Gesture-Driven Response System on NVIDIA Jetson
 
 **Real-time human gesture recognition → automated text/audio response**
