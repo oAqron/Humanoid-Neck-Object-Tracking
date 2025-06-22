@@ -3,7 +3,7 @@
 
 **Real-time human gesture recognition → automated text/audio response**
 
-## 🚀 Project Overview
+## Project Overview
 
 We build an end-to-end pipeline that:
 
@@ -14,7 +14,7 @@ We build an end-to-end pipeline that:
 
 ---
 
-## 🗂️ Directory Structure
+## Directory Structure
 
 ```text
 ├── data/           # Raw gesture video clips (wave, dance)
